@@ -2,6 +2,7 @@
   "name": "airNowCli",
   "version": "1.0.0",
   "description": "Gets air quality information from the airnow gov site",
+  "bin":  "./index.js",
   "main": "index.js",
   "repository": "git@github.com:devinthemtn/airQualityCli.git",
   "author": "Thomas Koefod <devInTheMtn@gmail.com>",
