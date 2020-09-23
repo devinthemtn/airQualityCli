@@ -6,5 +6,8 @@
   "repository": "git@github.com:devinthemtn/airQualityCli.git",
   "author": "Thomas Koefod <devInTheMtn@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
